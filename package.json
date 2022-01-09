@@ -1,0 +1,25 @@
+{
+  "name": "twitter-clone-vanilla",
+  "version": "1.0.0",
+  "description": "An attempt to clone Twitter(i.e tweeting) with vanilla Javascript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dave-mash/twitter-clone-vanilla-js.git"
+  },
+  "author": "David Macharia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dave-mash/twitter-clone-vanilla-js/issues"
+  },
+  "homepage": "https://github.com/Dave-mash/twitter-clone-vanilla-js#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
